@@ -1,0 +1,12 @@
+I want to open a Chinese restaurant in Amsterdam. I don't know where exactly to open the restaurant would maximize the profit.
+
+Two main problems:
+* Which neighborhood? (based on the density of target customers)
+* Where exactly? (based on the density of competitors)
+
+figures and statistics about Amsterdam
+https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84286NED/table?ts=1558337871247
+https://www.oozo.nl/cijfers/amsterdam
+Verdeling op basis van afkomst (Distribution based on origin)
+
+
