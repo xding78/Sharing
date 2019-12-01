@@ -68,22 +68,30 @@ C
 |
 
 - **Confirmation**: means the transactions occurred on the blockchain has been verified by the network. It happens through a process called mining in P-O-W system. When a transaction is confirmed, it cannot be double spent or reversed. As much as confirmations the transaction has, the harder it becomes to make a double spend attack.
+|
 
 - **Consensus Algorithm**  is the blockchain element that determines how consensus is reached on that blockchain. In other words; it is the part of the blockchain protocol that describes who gets to validate blocks of data (and thus is entitled to the reward) and how others can verify its legitimacy. All participating entities on the blockchain must adhere and follow the same consensus algorithm to participate on the blockchain.
+|
 
 - **Consensus Process**: is achieved when all the network participants agree on the validity of the transactions and ensure that ledgers are correctly copied with each other.
+|
 
 - **Cryptocurrency**: A digital currency that is based on mathematics, where encryption techniques regulate the units of currency and verify the fund’s transfer. Also, cryptocurrencies are the representations of digital assets. Some of the popular cryptocurrencies are EOS, Bitcoin, NEO, Litecoin and Ethereum. Network stakeholders can buy or mine the cryptocurrency. Also, there are more ways to get hold of them including airdrop, staking or bounties.
+|
 
 .. _Consortium Blockchain:
 
 - **Consortium Blockchain**: is a blockchain, where a pre-selected set of nodes handles consensus process. It is also called permissioned blockchain network that can be a hybrid model built between trusted entity model of private blockchains and low trust provided by the public blockchain. In this, the access to read the transactions can be public or restricted to the participants. Moreover, these types of blockchains may be referred to as “partially decentralized.” |br| *→ See also*: Blockchain_
+|
 
 - **Cryptoanalysis**: The thesis of methods for understanding the meaning of the encrypted details, without accessing the secret details.
+|
 
 - **Cryptojacking**: is considered as a secret use of a device for mining cryptocurrency.
+|
 
 - **Cold Storage**: Users can keep cryptocurrencies in the cold storage. It comes in three forms including QR code, USB drive or a hardware wallet.
+|
 
 D
 ---
