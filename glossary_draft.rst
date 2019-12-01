@@ -12,17 +12,17 @@ Blockchain general terms
 A
 ---
 
-* **Address**: Refers to a string of alphanumeric characters or scannable QR code, which is used to transmit and receive transactions on the network. The address is an essential term in the cryptocurrency, generated using the private key.
+- **Address**: Refers to a string of alphanumeric characters or scannable QR code, which is used to transmit and receive transactions on the network. The address is an essential term in the cryptocurrency, generated using the private key.
 
-* **Airdrop**: means distributing the free tokens to stakeholders as rewards. Airdrop is related to the blockchain projects, especially ICOs. Also, it might or might not include an incentive. Many blockchain projects perform airdrop for various reasons like community growth, fixing the bugs or incentivize a positive effort towards their idea.
+- **Airdrop**: means distributing the free tokens to stakeholders as rewards. Airdrop is related to the blockchain projects, especially ICOs. Also, it might or might not include an incentive. Many blockchain projects perform airdrop for various reasons like community growth, fixing the bugs or incentivize a positive effort towards their idea.
 
-* **Accidental Fork**: happens when two or more miners select the block simultaneously. Then, one chain becomes longer than other. Also, the network abandons blocks that are not included in the long chain. These blocks are referred to as “orphaned blocks.” |br| *→ See also:* Fork_
+- **Accidental Fork**: happens when two or more miners select the block simultaneously. Then, one chain becomes longer than other. Also, the network abandons blocks that are not included in the long chain. These blocks are referred to as “orphaned blocks.” |br| *→ See also:* Fork_
 
-* **Agreement Ledger**: is considered as distributed ledger (DL), where two or more parties use it to negotiate and reach an agreement.
+- **Agreement Ledger**: is considered as distributed ledger (DL), where two or more parties use it to negotiate and reach an agreement.
 
-* **ASIC**: stands for Application Specific Integrated Circuit, also referred to Silicon Chip is created to do a single task with significant power savings. ASICs are more efficient as compared to conventional hardware like CPU and GPU. ASIC is designed to process SHA-256 hashing problems for mining more bitcoins.
+- **ASIC**: stands for Application Specific Integrated Circuit, also referred to Silicon Chip is created to do a single task with significant power savings. ASICs are more efficient as compared to conventional hardware like CPU and GPU. ASIC is designed to process SHA-256 hashing problems for mining more bitcoins.
 
-* **API**: Application Programming Interface (API) is referred to be a software intermediary that enables two different applications to interact with each other. These interfaces define ways to do communication between several components.
+- **API**: Application Programming Interface (API) is referred to be a software intermediary that enables two different applications to interact with each other. These interfaces define ways to do communication between several components.
 Attestation Ledger is an account book, created to provide evidence of individual transactions. The ledger is to used to check that agreement, statement or commitment of transaction was made.
 
 B
@@ -32,7 +32,7 @@ B
 
 - **bitcoin**: Lowercase ‘b’ in bitcoin: refers to the token/cryptocurrency bitcoin
 
-- **Blockchain**: a distributed ledger that comprises of immutable records. Each block is then linked to the next block with a cryptographic signature. It enables block chains to be used like a ledger that can be shared and accessed by anyone having the right permissions. The blockchain is the transparent ledger that is used to save identities, value, agreements, credentials and property rights. Once you add something to the ledger, it will stay there forever. |br| *→ See also*: `Consortium Blockchain`_, `Private Blockchain`_, `Public Blockchain`_
+- **Blockchain**: a distributed ledger that comprises of immutable records. Each block is then linked to the next block with a cryptographic signature. It enables block chains to be used like a ledger that can be shared and accessed by anyone having the right permissions. The blockchain is the transparent ledger that is used to save identities, value, agreements, credentials and property rights. Once you add something to the ledger, it will stay there forever. |br| *→ See also*: `Consortium Blockchain`_, `Private Blockchain`_, `Public Blockchain`_ |br|
 
 - **Blockchain Explorer**: is a type of tool, which is used to check the past or current transactions on a blockchain. Also, it provides you with more details like transaction growth and network hash rate. By understanding blockchain explorer, you can enhance your knowledge about blockchain definitions.
 
