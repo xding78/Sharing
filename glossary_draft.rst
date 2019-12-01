@@ -7,12 +7,8 @@
 Blockchain general terms
 ==========================
 
-A_, B_, C_, D_, E_, F_, G_, H_, I_, J_, K_, L_, M_, N_, O_, P_, Q_, R_, S_, T_, U_, V_, W_, X_, Y_, Z_
-
-|
-
 **51% Attack** |br|
-An attack on the distributed ledger that results in miners group has controlled more than 50% of the mining_ `hash rate`_ of the network. The term “Attack,” is used mostly in context to Bitcoin_.
+An attack on the distributed ledger that results in miners group has controlled more than 50% of the mining_ hashrate_ of the network. The term “Attack,” is used mostly in context to Bitcoin_.
 
 A
 ---
@@ -46,7 +42,7 @@ Application Programming Interface (API) refers to a software intermediary that e
 
 **ASIC** |br|
 ASIC is a type of computer processing chip that performs a singular function. |br|
-Due to its specialization, an *ASIC* is much more efficient and cost-effective than a generalized computer processor that can perform many functions. In the blockchain industry, ASIC boards have been used to perform the SHA-256_ hashing_ required for Proof-of-Work_ (PoW), greatly outstripping the `hash rate`_ of even the most powerful GPU miners.
+Due to its specialization, an *ASIC* is much more efficient and cost-effective than a generalized computer processor that can perform many functions. In the blockchain industry, ASIC boards have been used to perform the SHA-256_ hashing_ required for Proof-of-Work_ (PoW), greatly outstripping the hashrate_ of even the most powerful GPU miners.
 
 .. _Asymmetric Cryptography:
 
@@ -75,6 +71,16 @@ Lowercase ‘b’ in bitcoin refers to the token/cryptocurrency bitcoin.
 Blocks are packages of data that carry permanently recorded data on the blockchain network. |br|
 *→ See also:* `Orphan Blocks`_, `Stale Blocks`_, `Uncle Blocks`_
 
+.. _block height:
+
+**Block Height** |br| 
+Block height represents the number of blocks linked together in the blockchain. For example, the height 0 is the first block that is also known as `Genesis Block`_. |br|
+
+.. _block reward:
+
+**Block Reward** |br| 
+When miner solves the block successfully, they receive the reward as a block reward. Miner needs to add the first transaction on the block to claim the reward. The reward can also be shared with a group of miners based on the amount of work they have done.
+
 .. _Blockchain:
 
 **Blockchain** |br| 
@@ -84,27 +90,12 @@ A blockchain is a distributed ledger that comprises of immutable records. Each b
 .. _blockchain explorer:
 
 **Blockchain Explorer** |br| 
-Blockchain explorer is a type of tool, which is used to check the past or current transactions_ on a blockchain. Also, it provides you with more details like transaction growth and network hash rate. By understanding blockchain explorer, you can enhance your knowledge about blockchain definitions.
+Blockchain explorer is a type of tool, which is used to check the past or current transactions_ on a blockchain. Also, it provides you with more details like transaction growth and network hashrate_. By understanding blockchain explorer, you can enhance your knowledge about blockchain definitions.
 
-.. _block reward:
+.. _burning:
 
-**Block Reward** |br| 
-When miner solves the block successfully, they receive the reward as a block reward. Miner needs to add the first transaction on the block to claim the reward. The reward can also be shared with a group of miners based on the amount of work they have done.
-
-.. _block height:
-
-**Block Height** |br| 
-Block height represents the number of blocks linked together in the blockchain. For example, the height 0 is the first block that is also known as Genesis Block. |br|
-
-.. _block cipher:
-
-**Block ciphers** |br|
-A block cipher is a method of encrypting text in which algorithm and cryptographic key are applied to a data block at once as a group inspite of one bit at a time.
-
-.. _bounty:
-
-**Bounty** |br| 
-Business or startups run a bounty program to incentivize positive behavior like bug fixes, article writing and marketing. These are quite popular in the tech industry.
+**Burning** |br|
+Burning refers to the Proof-of-Burn consensus algorithm. Burning coins is the action of sending them to an address where they are irretrievable. As a miner, the more coins you burn, the better chance you have of being selected to mine the next block, thus earning more rewards.
 
 C
 ---
@@ -112,22 +103,21 @@ C
 .. _central ledger:
 
 **Central Ledger** |br| 
-The ledger, which is maintained by the central agency. Chain linking |br| 
-It is the process to connect two blockchains so that transactions between the chain could take place. Blockchain like bitcoin can communicate with other side chains by enabling the assets exchange between them.
+The central or general ledger works like a central repository that keeps records of transactions of assets and liabilities, revenues, expenses, owner’s equity etc.
+
+**Chain linking** |br| 
+Chain linking is the process to connect two blockchains so that transactions_ between the chain could take place. Blockchain like bitcoin can communicate with other side chains by enabling the assets exchange between them.
 
 .. _confirmation:
 
 **Confirmation** |br| 
-means the transactions occurred on the blockchain has been verified by the network. It happens through a process called mining in P-O-W system. When a transaction is confirmed, it cannot be double spent or reversed. As much as confirmations the transaction has, the harder it becomes to make a double spend attack.
+Confirmation means the transactions_ occurred on the blockchain_ has been verified by the network. It happens through a process called mining_ in a Proof-of-Work_ (PoW) system. When a transaction is confirmed, it cannot be double spent or reversed. The more confirmations an transaction has, the harder it becomes to make a double-spending_ attack.
 
 .. _consensus algorithm:
 
-**Consensus Algorithm**  is the blockchain element that determines how consensus is reached on that blockchain. In other words; it is the part of the blockchain protocol that describes who gets to validate blocks of data (and thus is entitled to the reward) and how others can verify its legitimacy. All participating entities on the blockchain must adhere and follow the same consensus algorithm to participate on the blockchain.
-
-.. _consensus process:
-
-**Consensus Process** |br| 
-is achieved when all the network participants agree on the validity of the transactions and ensure that ledgers are correctly copied with each other.
+**Consensus Algorithm** |br|
+Consensus algorithm is the blockchain element that determines how consensus is reached on that blockchain. In other words, it is the part of the blockchain protocol_ that describes who gets to validate blocks of data (and thus is entitled to the reward) and how others can verify its legitimacy. All participating entities on the blockchain must adhere and follow the same consensus algorithm to participate on the blockchain. |br|
+*→ See also*: PoS_, PoW_, `Pos/Pow Hybrid`_, PBFT_
 
 .. _cryptocurrency:
 
@@ -138,80 +128,62 @@ A digital currency that is based on mathematics, where encryption techniques reg
 
 **Consortium Blockchain** |br| 
 is a blockchain, where a pre-selected set of nodes handles consensus process. It is also called permissioned blockchain network that can be a hybrid model built between trusted entity model of private blockchains and low trust provided by the public blockchain. In this, the access to read the transactions can be public or restricted to the participants. Moreover, these types of blockchains may be referred to as “partially decentralized.” |br|
-*→ See also*: Blockchain_
+*→ See also*: Blockchain_, `Private Blockchain`_, `Public Blockchain`_
 
-.. _cryptoanalysis:
+.. _cryptography:
 
-**Cryptoanalysis** |br| 
-The thesis of methods for understanding the meaning of the encrypted details, without accessing the secret details.
-
-.. _cryptojacking:
-
-**Cryptojacking** |br| 
-is considered as a secret use of a device for mining cryptocurrency.
-
-.. _cold storage:
-
-**Cold Storage** |br| 
-Users can keep cryptocurrencies in the cold storage. It comes in three forms including QR code, USB drive or a hardware wallet.
+**Cryptography** |br|
+Cryptography is the encryption and decryption of data. There are two main cryptographic concepts used in Blockchain, Hashing_ and `Digital Signatures`_. In general, there are three forms of encryption that are widely used, symmetric cryptography, asymmetric cryptography, and hashing.
 
 D
 ---
 
+.. _DAO:
+
+**DAO** |br| 
+A DAO (Decentralized Autonomous Organization) can be thought of as a corporation, which runs without involving human intervention under the control of a trusted set of business rules.
+
 .. _dApps:
 
 **dApp** |br| 
-decentralized application, Unlike a traditional application, it runs on the decentralized P2P network. For example, CryptoKitties is a famous cat breeding game. Also, it is an entirely open-source application, which operates autonomously and no entity can control the majority of its token.
+A dApp is a decentralized application that must be completely open-source, must operate autonomously, and with no entity controlling the majority of its tokens.
 
 .. _Dappbase:
 
 **Dappbase** |br| 
 A MicroChain contract controls the Dapps on the MicroChain. It is available in the release of nuwa 1.0.8 and later. 
 
-.. _DAO:
+.. _decentralization:
 
-**DAO** |br| 
-A DAO (Decentralized Autonomous Organization) |br| 
-DAO can be thought of as a corporation, which runs without involving human intervention under the control of a trusted set of business rules.
-The DAO |br| 
-Quite different from A DAO, it is a venture capital fund, built on the Ethereum and can cause a hard and soft fork.
-Decription is the process used to turn cipher-text into plain text. |br| *→ See also*: Encryption_
+**Decentralization** |br|
+Decentralisation means the network operates on a peer-to-peer_ basis. A global network of computers use blockchain technology to jointly manage the database that records transactions_ instead of one central server.
 
 .. _Decryption:
 
-**Decryption**:
-
-.. _digital commodity:
-
-**Digital Commodity** |br| 
-is an electronically transferrable, scarce, intangible with a market value.
-
-.. _digital identity:
-
-**Digital Identity** |br| 
-is an online or networked identity that is claimed in cyberspace by a company, electronic device or individual.
-
-.. _digital signature:
-
-**Digital Signature** |br| 
-refers to the digital code, which is generated by public key encryption attached to an electronically transmitted document to check its content and the identity of the senders.
-Double Spending occurs when some amount of money is spent twice.
+**Decryption** |br|
+Decryption is the process of taking encoded or encrypted text or other data and converting it back into text that you or the computer can read and understand. This term could be used to describe a method of unencrypting the data manually or unencrypting the data using the proper codes or keys.
 
 .. _difficulty:
 
 **Difficulty** |br| 
-refers to the difficulty level to verify blocks in the blockchain network in Proof-of-Work mining.
-Encryption is the process to turn the plain-text into a data stream (cipher-text) that seems like a meaningless and random sequence of bits. |br| *→ See also*: Decryption_
+Difficulty refers to the difficulty level to verify blocks in the blockchain network in Proof-of-Work_ mining_.
+
+.. _digital signature:
+
+.. _digital signatures:
+
+**Digital Signature** |br| 
+Digital signature refers to the digital code, which is generated by `public key`_ encryption_ attached to an electronically transmitted document to check its content and the identity of the senders.
 
 .. _distributed ledger:
 
 **Distributed Ledger** |br| 
-These types of databases are spread across various sites, institutions and countries. Records are stored across the network of decentralized nodes. Distributed Ledger doesn’t have its own currency and it can be either private or permissioned.
+Distributed ledgers are a type of database that are spread across multiple sites, countries or institutions. Distributed ledger data can be either “permissioned” or “un-permissioned” to control who can view it.
 
-.. _DYOR:
+.. _double-spending:
 
-**DYOR** |br| 
-Do Your Own Research, DYOR is aimed at startups or entrepreneurs who are told to do their own research and didn’t rely on anyone else for their investment decisions. Since Cryptocurrency is a volatile platform, DYOR would be required whenever an investor decides to invest.
+**Double-spending** |br|
+Double-spending is a potential flaw in a digital cash scheme in which the same single digital token can be spent more than once. Unlike physical cash, a digital token consists of a digital file that can be duplicated or falsified. As with counterfeit money, such double-spending leads to inflation by creating a new amount of copied currency that did not previously exist.
 
 E
 ---
@@ -221,26 +193,6 @@ E
 **Encryption** |br|
 Encryption is the process of turning a clear-text message (plaintext) into a data stream (cipher-text), which looks like a meaningless and random sequence of bits. |br|
 *→ See also*: Decryption_, DAO_
-
-.. _Ether:
-
-**Ether** |br| 
-is considered to be the native token of the Ethereum Blockchain. It is used to pay miner rewards and transaction fees on the network to execute the requested operations. Also, it acts as the fuel of the Ethereum ecosystem.
-
-.. _ERC20:
-
-**ERC20 Token Standard** |br| 
-refers to the standard protocol, which is used in the Ethereum network to issue tokens. The “Ethereum Request for Comments” (ERC20) is used by ICOs to release the tokens and maintain the standards of trading assets. Also, dApps_ use the token to fuel its economy.
-
-.. _ERC721:
-
-**ERC721 Token Standard** |br| 
-is a non-fungible Ethereum token standard. Non-fungible means that the token standard is used to present a unique digital asset, which cannot be interchanged.
-
-.. _ERC223:
-
-**ERC223 Token Standard** |br| 
-is a token standard that has a focus on security and enables token transfers to act as ETH transactions, using event handling to prevent the loss of the tokens. Also, the standard is an improvement on the ERC20 critical bug.
 
 .. _Ethereum:
 
@@ -252,28 +204,30 @@ is an open source platform that can be used by the developers to develop and dep
 **EVM** |br| 
 Ethereum Virtual Machine. EVM enables anyone to execute arbitrary EVM Byte Code. Every Ethereum node runs on the EVM to maintain consensus across the blockchain.
 
-.. _exchange:
-
-**Exchange** |br| 
-It is a place where a user can purchase and sell cryptocurrency. It charges fees in various cases for withdrawals, deposits or transactions. Also, the exchange is a method to link fiat currency to a location where the user can buy cryptocurrency. Some popular centralized exchanges for cryptocurrency are Coinbase, Bittrex, Kraken and Quadriga while some are decentralized exchanges, which do not have a central authority.
-
 F
 ---
 
-.. _Fiat:
+.. _Fiat Currency:
 
-**Fiat** |br| 
-A currency that is declared by the government to meet the financial obligation like USD, EUR, CNY, JPY or INR. It means that Fiat is the only currency that can be used to buy, sell or trade goods.
+**Fiat Currency** |br| 
+A fiat currency is a currency that is declared by the government to meet the financial obligation like USD, EUR, CNY, JPY or INR. It means that Fiat is the only currency that can be used to buy, sell or trade goods.
 
 .. _flush:
 
 **flush** |br| 
-A special operation of MicroChain. Each MicroChain needs to defined the flush period in terms of MotherChain block numbers when it is created. In each flush operation, the status of the MicroChain is written to the MotherChain. In the flush operation, MicroChain will give out the mining rewards to the SCS miners, deposit/withdraw MicroChain tokens, and other transactions that may change the status in the MotherChain.
+A special operation of MicroChain_. Each MicroChain needs to defined the flush period in terms of MotherChain block numbers when it is created. In each flush operation, the status of the MicroChain is written to the MotherChain. In the flush operation, MicroChain will give out the mining rewards to the SCS miners, deposit/withdraw MicroChain tokens, and other transactions that may change the status in the MotherChain.
 
 .. _Fork:
 
 **Fork** |br| 
-builds an alternative blockchain version by allowing two blocks to run simultaneously on different parts of the network. Forks generally happen in the crypto-world when new ‘governance rules’ are built into the blockchain’s code. It creates two parallel blockchains, where one among the two is the winning blockchain. |br| *→ See also*: `Accidental Fork`_, `Hard Fork`_
+A fork builds an alternative blockchain version by allowing two blocks to run simultaneously on different parts of the network. Forks generally happen in the crypto-world when new ‘governance rules’ are built into the blockchain’s code. It creates two parallel blockchains, where one among the two is the winning blockchain. |br|
+*→ See also*: `Accidental Fork`_, `Hardfork`_
+
+.. _fungible:
+
+**Fungible** |br|
+Fungibility is the idea that every item in a set is worth exactly the same amount. In cryptocurrency, that means that tokens have the same value, regardless of who owns them or what their history is. Fungibility is extremely important to the success of a decentralised network. |br|
+*→ See also*: `Non-Fungible Token`_
 
 G
 ---
@@ -286,10 +240,16 @@ The first block in the blockchain ledger refers to the Genesis Block. Also, the 
 .. _Gas:
 
 **Gas** |br| 
-is the unit to measure computational effort required to make a transaction on the Ethereum network. Every operation that is taking place in Ethereum such as simple transaction, smart contract or ICO, it requires some amount of gas. It is used to calculate the fees amount that is required to be paid to the network to perform the operation.
+The usage of blockchain costs money. The money is used to reward miners who validate transactions and append them to the blockchain. All transactions_ on the blockchain have a fee associated with it, called GAS. GAS is a unit of complexity that is used to set the price of code execution.
 
 H
 ---
+
+.. _hardfork:
+
+**Hardfork** |br| 
+A hardfork is a type of fork that makes previously invalid transactions valid and needs all users to upgrade their clients. On July 21, 2016, the Hardfork that happened in public blockchains was Ethereum Hardfork. It has changed the Ethereum protocol; thus a second blockchain emerged known as Ethereum Classic (ETC) that supports old protocols of Ethereum. |br|
+*→ See also*: Fork_
 
 .. _hash:
 
@@ -301,16 +261,17 @@ An alphanumeric string, Hash Value is a function that takes an input and output.
 **Hashing** |br|
 Hashing is the procedure that a miner on a Proof-of-Work_ blockchain_ constantly repeats in order to find an eligible signature (aka a proof of work). In other words, it is the procedure of repeatedly inserting a random string of digits into a hashing formulae until finding a desirable output.
 
-.. _hash rate:
+.. _hashing functions:
 
-**Hash Rate** |br|
-A hash rate in blockchain and cryptocurrency operations is defined as the number of hash operations done in a given amount of time, or the speed of a miner's performance. The hash rate is an important factor in the logistics of cryptocurrency mining and blockchain operations, and something that is often evaluated and discussed in cryptocurrency communities.
+.. _hashing function:
 
-.. _Hard Fork:
+**Hashing Function**
+The hash function transforms the digital signature, then both the hash value and signature are sent to the receiver. The receiver uses the same hash function to generate the hash value and then compares it to that received with the message. If the hash values are the same, it is likely that the message was transmitted without errors.
 
-**Hard Fork** |br| 
-is a type of fork that makes previously invalid transactions valid and needs all users to upgrade their clients. On July 21, 2016, the Hardfork that happened in public blockchains was Ethereum Hardfork. It has changed the Ethereum protocol; thus a second blockchain emerged known as Ethereum Classic (ETC) that supports old protocols of Ethereum. |br|
-*→ See also*: Fork_
+.. _hashrate:
+
+**Hashrate** |br|
+A hashrate in blockchain and cryptocurrency operations is defined as the number of hash operations done in a given amount of time, or the speed of a miner's performance. The hashrate_ is an important factor in the logistics of cryptocurrency mining and blockchain operations, and something that is often evaluated and discussed in cryptocurrency communities.
 
 .. _hot wallet:
 
@@ -330,10 +291,15 @@ I
 **ICO** |br| 
 Initial Coin Offering is a type of crowd fundings mechanism that is conducted on the blockchain. The core idea of an ICO is to fund new projects by pre-selling tokens to investors who are interested in the project.
 
-.. _immutable:
+.. _immutability:
 
-**Immutable** |br| 
-refers to an inability to be changed or altered over time. Immutable data once added to the blockchain cannot be changed by any entity involved in the blockchain network.
+**Immutability** |br|
+Immutability means a block cannot be modified after it is created. In Blockchain, blocks are chained together so that you cannot go back and change the contents of a block without having to change every subsequent block. Depending on the consensus protocol, you cannot change blocks without everyone else agreeing to it. This is sometimes referred to as “mutable by consensus”.
+
+.. _instance:
+
+**Instance** |br|
+The process of creating a genesis block and associating it with a network is what we call an instantiation. And the chain of blocks that is built on top of genesis block is what we call an instance.
 
 J
 ---
@@ -358,6 +324,11 @@ A computer on the blockchain network that verifies a finite number of transactio
 M
 ---
 
+.. _Merkle tree:
+
+**Merkle Tree** |br|
+Merkle tree is a cryptographic hash tree structure that can store a very large amount of data, where authenticating each individual piece of data only takes O(log(n)) space and time. In Ethereum, the transaction set of each block, as well as the state, is kept in a Merkle tree, where the roots of the trees are committed to in a block.
+
 .. _MicroChain:
 
 **MicroChain**
@@ -365,38 +336,40 @@ M
 .. _MicroChain Monitor:
 
 **MicroChain Monitor** |br| 
-SCS Monitor is a SCS node monitoring MicroChain status. MicroChain owner can use this SCS node to monitor MicroChain status and get data from MicroChain. Only the owner of MicroChain can add monitors.
+SCS_ Monitor is a SCS node monitoring MicroChain status. MicroChain owner can use this SCS node to monitor MicroChain status and get data from MicroChain. Only the owner of MicroChain can add monitors.
 
 .. _mining:
 
 **Mining** |br| 
-Due to the cryptographic nature of cryptocurrencies, an enormous amount of computing power and specialized hardware would be required to verify the transactions. People who solve transactions get some cryptocurrency in exchange for computing power. The whole process is known as mining.
+Mining is the process by which transactions_ are verified and added to a blockchain. This process of solving cryptographic problems using computing hardware also triggers the release of cryptocurrencies.
 
 .. _Multi-Signature:
 
 **Multi-Signature** |br| 
-aka multisig, The addresses that enable several parties to need more than one key to authorize the transaction. These addresses have much higher resistance to theft.
+Multi-Signature (multisig) is the addresses that enable several parties to need more than one key to authorize the transaction_. These addresses have much higher resistance to theft.
 
 N
 ---
 
-.. _Node:
+.. _nodes:
+
+.. _node:
 
 **Node** |br| 
-refers to any computer, connecting to the blockchain network.
+A node refers to any computer connecting to the blockchain network.
 
 .. _Non-Fungible Token:
 
 **Non-Fungible Token** |br| 
-Special kind of cryptographic token that represents a unique digital asset, which is not interchangeable. It is in contrast to cryptocurrencies or utility tokens fungible in nature.
+A non-fungible token is a special kind of cryptographic token that represents a unique digital asset, which is not interchangeable. It is in contrast to cryptocurrencies or utility tokens fungible_ in nature.
 
 O
 ---
 
 .. _Oracle:
 
-**Oracle** |br| 
-helps to communicate data with Smart Contracts by connecting the blockchain and real world. The Oracle searches and checks events and provides such details to the smart contract on the blockchain.
+**Oracle** |br|
+An oracle — in the blockchain sense of it — is a software application that verifies real-world occurrences (such as a shipment of banana’s) and submits this information to blockchains. Oracles are basically data transformers and transmitters, converting real-world occurences into data for blockchains.
 
 .. _Off-Ledger currency:
 
@@ -421,38 +394,46 @@ P
 
 .. _P2P:
 
-**Peer-to-Peer** |br| 
-aka P2P, refers to decentralized interactions held between two parties or more in a highly interconnected network. The participants involved in the peer-to-peer network can deal directly with each other via a single mediation point.
+**P2P (Peer-to-Peer)** |br| 
+P2P, Peer-to-Peer, refers to decentralized interactions held between two parties or more in a highly interconnected network. The participants involved in the peer-to-peer network can deal directly with each other via a single mediation point.
 
 .. _participant:
 
 **Participant** |br| 
-is the person who is responsible for accessing the ledger, reading the records and adding them to the Blockchain.
+A participant is the person who is responsible for accessing the ledger, reading the records and adding them to the blockchain.
+
+.. _PBFT:
+
+**PBFT** |br|
+Practical Byzantine Fault Tolerance (PBFT) is an algorithm that optimizes aspects of Byzantine Fault Tolerance (BFT), in other words, protection against Byzantine faults. PBFT has been implemented in several modern distributed computer systems, including some blockchain platforms. |br|
+*→ See also*: `Consensus Algorithm`_
 
 .. _peer:
 
 **Peer** |br| 
-is responsible for maintaining the integrity and identity of the ledger.
+A peer is responsible for maintaining the integrity and identity of the ledger.
 
-.. _Proof-of-Concept:
+.. _PoS:
 
-**PoC (Proof-of-Concept)** |br| 
-
-
-.. _Proof-of-State:
+.. _Proof-of-Stake:
 
 **PoS (Proof-of_State)** |br| 
-An alternative to the proof-of-work_ system, in which your existing stake in a cryptocurrency (the amount of that currency that you hold) is used to calculate the amount of that currency that you can mine.
+An alternative to the proof-of-work_ system, in which your existing stake in a cryptocurrency (the amount of that currency that you hold) is used to calculate the amount of that currency that you can mine. |br|
+*→ See also*: `Consensus Algorithm`_
+
+.. _PoW:
 
 .. _Proof-of-Work:
 
 **PoW (Proof-of-Work)** |br| 
-A system that ties mining_ capability to computational power. Blocks must be hashed, which is in itself an easy computational process, but an additional variable is added to the hashing process to make it more difficult. When a block is successfully hashed, the hashing must have taken some time and computational effort. Thus, a hashed block is considered proof of work.
+A system that ties mining_ capability to computational power. Blocks must be hashed, which is in itself an easy computational process, but an additional variable is added to the hashing process to make it more difficult. When a block is successfully hashed, the hashing must have taken some time and computational effort. Thus, a hashed block is considered proof of work. |br|
+*→ See also*: `Consensus Algorithm`_
 
 .. _Pos/Pow Hybrid:
 
 **PoS/Pow Hybrid** |br|
-PoS/PoW Hybrid is a combination of Proof-of-Stake (PoS) and Proof-of-Work (PoW) consensus protocols on a blockchain network. Blocks are validated from not only miners, but also voters (stakeholders) to form a balanced network governance.
+PoS/PoW Hybrid is a combination of Proof-of-Stake (PoS) and Proof-of-Work (PoW) consensus protocols on a blockchain network. Blocks are validated from not only miners, but also voters (stakeholders) to form a balanced network governance. |br|
+*→ See also*: `Consensus Algorithm`_
 
 .. _Private Blockchain:
 
@@ -477,6 +458,7 @@ is an open network which allows anyone from the world to send or receive transac
 .. _Public key:
 
 **Public Key** |br|
+A public key is your wallet address and is needed by other entities to send you messages or transactions.
 
 Q
 ---
@@ -518,6 +500,11 @@ A pool of SCSs with the same protocol to form one type of MicroChain. The protoc
 
 **SHA-256** |br|
 Cryptographic Hash Algorithm. A cryptographic hash (sometimes called 'digest') is a kind of 'signature' for a text or a data file. SHA-256 generates an almost-unique 256-bit (32-byte) signature for a text.
+
+.. _sharding:
+
+**Sharding** |br|
+Sharding is a type of database partitioning that separates very large databases the into smaller, faster, more easily managed parts called data shards. The word shard means a small part of a whole. The method is being researched by Ethereum to increase network scalability.
 
 .. _smart contract:
 
