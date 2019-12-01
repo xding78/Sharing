@@ -21,7 +21,7 @@ Airdrop means distributing the free tokens to stakeholders as rewards. Airdrop i
 .. _Accidental Fork:
 
 **Accidental Fork** |br| 
-happens when two or more miners select the block simultaneously. Then, one chain becomes longer than other. Also, the network abandons blocks that are not included in the long chain. These blocks are referred to as “orphaned blocks.” |br| *→ See also:* Fork_
+An Accidental Fork happens when two or more miners select the block simultaneously. Then, one chain becomes longer than other. Also, the network abandons blocks that are not included in the long chain. These blocks are referred to as “`orphan blocks`_.” |br| *→ See also:* Fork_
 
 **Agreement Ledger** |br| 
 is considered as `distributed ledger`_ (DL), where two or more parties use it to negotiate and reach an agreement.
@@ -39,12 +39,11 @@ B
 ---
 
 **Bitcoin** |br| 
-Capital ‘B’ in Bitcoin |br| 
-refers to the Bitcoin network.
+Capital ‘B’ in Bitcoin refers to the Bitcoin network.
 
 **bitcoin** |br| 
-Lowercase ‘b’ in bitcoin |br| 
-refers to the token/cryptocurrency bitcoin.
+Lowercase ‘b’ in bitcoin refers to the token/cryptocurrency bitcoin.
+
 
 .. _Blockchain:
 
@@ -267,6 +266,12 @@ helps to communicate data with Smart Contracts by connecting the blockchain and 
 **Off-Ledger Currency** |br| 
 refers to the currency that is minted off-ledger and used on-ledger.
 
+.. _orphan block:
+
+**Orphan Block** |br|
+Orphan blocks often referred to as stale blocks, are blocks that are not accepted into the blockchain network due to a time lag in the acceptance of the block in question into the blockchain, as compared to the other qualifying block. Orphan blocks are valid and verified blocks but have been rejected by the chain.
+→ See also: Block_
+
 **On-Ledger Currency** |br| 
 refers to the currency, which is minted on-ledger and utilized like Bitcoin.
 
@@ -382,11 +387,10 @@ A pool of VNODEs with the same protocol to pass data of the MicroChain. The prot
 W
 ---
 
-**Wallet** |br| 
+**Wallet**
 is a file that contains a collection of private keys and communicates with the similar blockchain. Wallets hold keys, not coins. Also, it requires backups for security reasons.
 
-**Wisper** |br| 
-
+**Wisper**
 is a part of the Ethereum P2P protocol suite, which allows for messaging between users via the blockchain network. Whisper’s main task is to provide a communication protocol between dApps.
 
 X
