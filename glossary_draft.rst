@@ -49,8 +49,7 @@ refers to the token/cryptocurrency bitcoin.
 .. _Blockchain:
 
 **Blockchain** |br| 
-a distributed ledger that comprises of immutable records. Each block is then linked to the next block with a cryptographic signature. It enables block chains to be used like a ledger that can be shared and accessed by anyone having the right permissions. The blockchain is the transparent ledger that is used to save identities, value, agreements, credentials and property rights. Once you add something to the ledger, it will stay there forever. |br| *→ See also* |br| 
-`Consortium Blockchain`_, `Private Blockchain`_, `Public Blockchain`_
+a distributed ledger that comprises of immutable records. Each block is then linked to the next block with a cryptographic signature. It enables block chains to be used like a ledger that can be shared and accessed by anyone having the right permissions. The blockchain is the transparent ledger that is used to save identities, value, agreements, credentials and property rights. Once you add something to the ledger, it will stay there forever. |br| *→ See also*: `Consortium Blockchain`_, `Private Blockchain`_, `Public Blockchain`_
 
 **Blockchain Explorer** |br| 
 is a type of tool, which is used to check the past or current transactions on a blockchain. Also, it provides you with more details like transaction growth and network hash rate. By understanding blockchain explorer, you can enhance your knowledge about blockchain definitions.
@@ -86,8 +85,7 @@ A digital currency that is based on mathematics, where encryption techniques reg
 .. _Consortium Blockchain:
 
 **Consortium Blockchain** |br| 
-is a blockchain, where a pre-selected set of nodes handles consensus process. It is also called permissioned blockchain network that can be a hybrid model built between trusted entity model of private blockchains and low trust provided by the public blockchain. In this, the access to read the transactions can be public or restricted to the participants. Moreover, these types of blockchains may be referred to as “partially decentralized.” |br| *→ See also* |br| 
-Blockchain_
+is a blockchain, where a pre-selected set of nodes handles consensus process. It is also called permissioned blockchain network that can be a hybrid model built between trusted entity model of private blockchains and low trust provided by the public blockchain. In this, the access to read the transactions can be public or restricted to the participants. Moreover, these types of blockchains may be referred to as “partially decentralized.” |br| *→ See also*: Blockchain_
 
 **Cryptoanalysis** |br| 
 The thesis of methods for understanding the meaning of the encrypted details, without accessing the secret details.
@@ -114,8 +112,7 @@ A DAO (Decentralized Autonomous Organization) |br|
 DAO can be thought of as a corporation, which runs without involving human intervention under the control of a trusted set of business rules.
 The DAO |br| 
 Quite different from A DAO, it is a venture capital fund, built on the Ethereum and can cause a hard and soft fork.
-Decription is the process used to turn cipher-text into plain text. |br| *→ See also* |br| 
-Encryption_
+Decription is the process used to turn cipher-text into plain text. |br| *→ See also*: Encryption_
 
 .. _Decryption:
 
@@ -133,8 +130,7 @@ is an online or networked identity that is claimed in cyberspace by a company, e
 
 **Difficulty** |br| 
 refers to the difficulty level to verify blocks in the blockchain network in Proof-of-Work mining.
-Encryption is the process to turn the plain-text into a data stream (cipher-text) that seems like a meaningless and random sequence of bits. |br| *→ See also* |br| 
-Decryption_
+Encryption is the process to turn the plain-text into a data stream (cipher-text) that seems like a meaningless and random sequence of bits. |br| *→ See also*: Decryption_
 
 .. _distributed ledger:
 
@@ -147,8 +143,7 @@ Do Your Own Research, DYOR is aimed at startups or entrepreneurs who are told to
 E
 ---
 
-**Encryption** |br| *→ See also* |br| 
-DAO_
+**Encryption** |br| *→ See also*: DAO_
 
 **Ether** |br| 
 is considered to be the native token of the Ethereum Blockchain. It is used to pay miner rewards and transaction fees on the network to execute the requested operations. Also, it acts as the fuel of the Ethereum ecosystem.
@@ -183,8 +178,7 @@ A special operation of MicroChain. Each MicroChain needs to defined the flush pe
 .. _Fork:
 
 **Fork** |br| 
-builds an alternative blockchain version by allowing two blocks to run simultaneously on different parts of the network. Forks generally happen in the crypto-world when new ‘governance rules’ are built into the blockchain’s code. It creates two parallel blockchains, where one among the two is the winning blockchain. |br| *→ See also* |br| 
-`Accidental Fork`_, `Hard Fork`_
+builds an alternative blockchain version by allowing two blocks to run simultaneously on different parts of the network. Forks generally happen in the crypto-world when new ‘governance rules’ are built into the blockchain’s code. It creates two parallel blockchains, where one among the two is the winning blockchain. |br| *→ See also*: `Accidental Fork`_, `Hard Fork`_
 
 G
 ---
@@ -204,8 +198,7 @@ World’s first fast, secure and fair distributed ledger, Hedera Hashgraph can p
 .. _Hard Fork:
 
 **Hard Fork** |br| 
-is a type of fork that makes previously invalid transactions valid and needs all users to upgrade their clients. On July 21, 2016, the Hardfork that happened in public blockchains was Ethereum Hardfork. It has changed the Ethereum protocol; thus a second blockchain emerged known as Ethereum Classic (ETC) that supports old protocols of Ethereum. |br| *→ See also* |br| 
-Fork_
+is a type of fork that makes previously invalid transactions valid and needs all users to upgrade their clients. On July 21, 2016, the Hardfork that happened in public blockchains was Ethereum Hardfork. It has changed the Ethereum protocol; thus a second blockchain emerged known as Ethereum Classic (ETC) that supports old protocols of Ethereum. |br| *→ See also*: Fork_
 
 **Hash** |br| 
 An alphanumeric string, Hash Value is a function that takes an input and output. It is used to do the confirmation of coins’ transactions on the blockchain.
@@ -238,8 +231,7 @@ L
 It is the best solution to Bitcoin’s inherent scalability issues. It enables payments fastly using Smart Contracts functionality. Also, it allows cross-blockchain payments if both users use the same cryptographic hash function.
 
 **Light Node** |br| 
-A computer on the blockchain network that verifies a finite number of transactions relevant to its dealings using SPV (simplified payment verification) mode. |br| *→ See also* |br| 
-Node_
+A computer on the blockchain network that verifies a finite number of transactions relevant to its dealings using SPV (simplified payment verification) mode. |br| *→ See also*: Node_
 
 M
 ---
@@ -302,16 +294,14 @@ is responsible for maintaining the integrity and identity of the ledger.
 .. _Private Blockchain:
 
 **Private Blockchain** |br| 
-only allows authorized entities to send or receive transactions within the network. No one can write/read or audit the records stored on the private blockchain unless someone has permission to do. |br| *→ See also* |br| 
-Blockchain_
+only allows authorized entities to send or receive transactions within the network. No one can write/read or audit the records stored on the private blockchain unless someone has permission to do. |br| *→ See also*: Blockchain_
 
 **Private Key**:
 
 .. _Public Blockchain:
 
 **Public Blockchain** |br| 
-is an open network which allows anyone from the world to send or receive transactions. |br| *→ See also* |br| 
-Blockchain_
+is an open network which allows anyone from the world to send or receive transactions. |br| *→ See also*: Blockchain_
 
 **Public Key**:
 
@@ -324,8 +314,7 @@ R
 .. _Ripple:
 
 **Ripple** |br| 
-is the payment method built on the distributed ledger, which can be used to transfer any cryptocurrency. It consists of gateways and payment nodes that are operated by authorities. |br| *→ See also* |br| 
-XRP_
+is the payment method built on the distributed ledger, which can be used to transfer any cryptocurrency. It consists of gateways and payment nodes that are operated by authorities. |br| *→ See also*: XRP_
 
 **Ring Signature** |br| 
 refers to the cryptographic technology that offers a good level of anonymization on the blockchain. These signatures make sure that individual transaction outputs on the blockchain cannot be detected.
@@ -406,8 +395,7 @@ X
 .. _XRP:
 
 **XRP** |br| 
-is the native cryptocurrency for the Ripple distributed ledger payment network that acts as a bridge currency to other currencies. |br| *→ See also* |br| 
-Ripple_
+is the native cryptocurrency for the Ripple distributed ledger payment network that acts as a bridge currency to other currencies. |br| *→ See also*: Ripple_
 
 Y
 ---
