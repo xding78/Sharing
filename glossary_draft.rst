@@ -67,6 +67,8 @@ C
 
 - **Cryptocurrency**: A digital currency that is based on mathematics, where encryption techniques regulate the units of currency and verify the fund’s transfer. Also, cryptocurrencies are the representations of digital assets. Some of the popular cryptocurrencies are EOS, Bitcoin, NEO, Litecoin and Ethereum. Network stakeholders can buy or mine the cryptocurrency. Also, there are more ways to get hold of them including airdrop, staking or bounties.
 
+.. _Consortium Blockchain:
+
 - **Consortium Blockchain**: is a blockchain, where a pre-selected set of nodes handles consensus process. It is also called permissioned blockchain network that can be a hybrid model built between trusted entity model of private blockchains and low trust provided by the public blockchain. In this, the access to read the transactions can be public or restricted to the participants. Moreover, these types of blockchains may be referred to as “partially decentralized.”
 
 - **Cryptoanalysis**: The thesis of methods for understanding the meaning of the encrypted details, without accessing the secret details.
@@ -222,6 +224,8 @@ P
 See also: Blockchain
 
 - **Private Key**:
+
+.. _Public Blockchain:
 
 - **Public Blockchain**: is an open network which allows anyone from the world to send or receive transactions.
 See also: Blockchain
