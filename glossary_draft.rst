@@ -45,6 +45,12 @@ Capital ‘B’ in Bitcoin refers to the Bitcoin network.
 **bitcoin** |br| 
 Lowercase ‘b’ in bitcoin refers to the token/cryptocurrency bitcoin.
 
+.. _Block:
+
+**Block** |br|
+Blocks are packages of data that carry permanently recorded data on the blockchain network. |br|
+*→ See also:* `Orphan Blocks`_
+
 .. _Blockchain:
 
 **Blockchain** |br| 
