@@ -27,7 +27,10 @@ A
 - **ASIC**: stands for Application Specific Integrated Circuit, also referred to Silicon Chip is created to do a single task with significant power savings. ASICs are more efficient as compared to conventional hardware like CPU and GPU. ASIC is designed to process SHA-256 hashing problems for mining more bitcoins.
 |
 
-- **API**: Application Programming Interface (API) is referred to be a software intermediary that enables two different applications to interact with each other. These interfaces define ways to do communication between several components. Attestation Ledger is an account book, created to provide evidence of individual transactions. The ledger is to used to check that agreement, statement or commitment of transaction was made.
+- **API**: Application Programming Interface (API) is referred to be a software intermediary that enables two different applications to interact with each other. These interfaces define ways to do communication between several components. 
+|
+
+- **Attestation Ledger** is an account book, created to provide evidence of individual transactions. The ledger is to used to check that agreement, statement or commitment of transaction was made.
 |
 
 B
