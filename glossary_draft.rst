@@ -51,7 +51,7 @@ Due to its specialization, an *ASIC* is much more efficient and cost-effective t
 .. _Asymmetric Cryptography:
 
 **Asymmetric Cryptography (Public Key Cryptography)** |br|
-Asymmetric cryptography, is also known as public key cryptography. It uses public keys and private keys to encrypt and decrypt data. The keys are large numbers that have been paired together but are not identical (asymmetric). A `public key`_ can be shared with everyone. The `private key`_ in the pair is kept secret. Protocols such as SSH, S/MIME rely on asymmetric cryptography for encyption_ and `digital signature`_ functions.
+Asymmetric cryptography, is also known as public key cryptography. It uses public keys and private keys to encrypt and decrypt data. The keys are large numbers that have been paired together but are not identical (asymmetric). A `public key`_ can be shared with everyone. The `private key`_ in the pair is kept secret. Protocols such as SSH, S/MIME rely on asymmetric cryptography for encryption_ and `digital signature`_ functions.
 
 .. _attestation ledger:
 
