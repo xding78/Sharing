@@ -45,11 +45,11 @@ Capital ‘B’ in Bitcoin refers to the Bitcoin network.
 **bitcoin** |br| 
 Lowercase ‘b’ in bitcoin refers to the token/cryptocurrency bitcoin.
 
-
 .. _Blockchain:
 
 **Blockchain** |br| 
-a distributed ledger that comprises of immutable records. Each block is then linked to the next block with a cryptographic signature. It enables block chains to be used like a ledger that can be shared and accessed by anyone having the right permissions. The blockchain is the transparent ledger that is used to save identities, value, agreements, credentials and property rights. Once you add something to the ledger, it will stay there forever. |br| *→ See also*: `Consortium Blockchain`_, `Private Blockchain`_, `Public Blockchain`_
+a distributed ledger that comprises of immutable records. Each block is then linked to the next block with a cryptographic signature. It enables block chains to be used like a ledger that can be shared and accessed by anyone having the right permissions. The blockchain is the transparent ledger that is used to save identities, value, agreements, credentials and property rights. Once you add something to the ledger, it will stay there forever. |br|
+*→ See also*: `Consortium Blockchain`_, `Private Blockchain`_, `Public Blockchain`_
 
 **Blockchain Explorer** |br| 
 is a type of tool, which is used to check the past or current transactions on a blockchain. Also, it provides you with more details like transaction growth and network hash rate. By understanding blockchain explorer, you can enhance your knowledge about blockchain definitions.
@@ -270,7 +270,7 @@ refers to the currency that is minted off-ledger and used on-ledger.
 .. _orphan block:
 
 **Orphan Block** |br|
-Orphan blocks often referred to as stale blocks, are blocks that are not accepted into the blockchain network due to a time lag in the acceptance of the block in question into the blockchain, as compared to the other qualifying block. Orphan blocks are valid and verified blocks but have been rejected by the chain.
+Orphan blocks often referred to as stale blocks, are blocks that are not accepted into the blockchain network due to a time lag in the acceptance of the block in question into the blockchain, as compared to the other qualifying block. Orphan blocks are valid and verified blocks but have been rejected by the chain. |br|
 → See also: Block_
 
 **On-Ledger Currency** |br| 
