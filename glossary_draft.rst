@@ -20,7 +20,7 @@ A
 .. _address:
 
 **Address** |br|
-Addresses are used to receive and send transactions_ on the network. An address is a string of alphanumeric characters, but can also be represented as a scannable QR code. The address is generated using the `private key`_.
+Addresses are used to receive and send transaction_ on the network. An address is a string of alphanumeric characters, but can also be represented as a scannable QR code. The address is generated using the `private key`_.
 
 .. _airdrop:
 
