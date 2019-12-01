@@ -20,7 +20,7 @@ A
 .. _address:
 
 **Address** |br|
-Addresses are used to receive and send transactions on the network. An address is a string of alphanumeric characters, but can also be represented as a scannable QR code. The address is generated using the `private key`_.
+Addresses are used to receive and send transactions_ on the network. An address is a string of alphanumeric characters, but can also be represented as a scannable QR code. The address is generated using the `private key`_.
 
 .. _airdrop:
 
@@ -56,7 +56,7 @@ Asymmetric cryptography, is also known as public key cryptography. It uses publi
 .. _attestation ledger:
 
 **Attestation Ledger** |br|
-An attestation ledger is an account book, created to provide evidence of individual transactions. The ledger is to used to check that agreement, statement or commitment of transaction was made.
+An attestation ledger is an account book, created to provide evidence of individual transactions_. The ledger is to used to check that agreement, statement or commitment of transaction was made.
 
 B
 ---
