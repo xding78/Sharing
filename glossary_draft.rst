@@ -34,7 +34,7 @@ B
 
 - **bitcoin**: Lowercase ‘b’ in bitcoin: refers to the token/cryptocurrency bitcoin
 
-- **Blockchain**: a distributed ledger that comprises of immutable records. Each block is then linked to the next block with a cryptographic signature. It enables block chains to be used like a ledger that can be shared and accessed by anyone having the right permissions. The blockchain is the transparent ledger that is used to save identities, value, agreements, credentials and property rights. Once you add something to the ledger, it will stay there forever. |br| *→ See also*: 'Consortium Blockchain'_, 'Private Blockchain'_, 'Public Blockchain'_
+- **Blockchain**: a distributed ledger that comprises of immutable records. Each block is then linked to the next block with a cryptographic signature. It enables block chains to be used like a ledger that can be shared and accessed by anyone having the right permissions. The blockchain is the transparent ledger that is used to save identities, value, agreements, credentials and property rights. Once you add something to the ledger, it will stay there forever. |br| *→ See also*: 'Consortium Blockchain'_, 'Private Blockchain'_, 'Public Blockchain'__
 
 - **Blockchain Explorer**: is a type of tool, which is used to check the past or current transactions on a blockchain. Also, it provides you with more details like transaction growth and network hash rate. By understanding blockchain explorer, you can enhance your knowledge about blockchain definitions.
 
