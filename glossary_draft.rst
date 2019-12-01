@@ -9,7 +9,7 @@ Blockchain general terms
 
 A_, B_, C_, D_, E_, F_, G_, H_, I_, J_, K_, L_, M_, N_, O_, P_, Q_, R_, S_, T_, U_, V_, W_, X_, Y_, Z_
 
----
+|
 
 **51% Attack** |br|
 An attack on the distributed ledger that results in miners group has controlled more than 50% of the mining hash rate of the network. The term “Attack,” is used mostly in context to Bitcoin.
