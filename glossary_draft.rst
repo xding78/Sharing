@@ -28,7 +28,7 @@ An Accidental Fork happens when two or more miners select the block simultaneous
 is considered as `distributed ledger`_ (DL), where two or more parties use it to negotiate and reach an agreement.
 
 **ASIC** |br| 
-stands for *Application Specific Integrated Circuit*, also referred to Silicon Chip is created to do a single task with significant power savings. ASICs are more efficient as compared to conventional hardware like CPU and GPU. *ASIC* is designed to process `SHA-256`_ hashing problems for mining more bitcoins.
+stands for *Application Specific Integrated Circuit*, also referred to Silicon Chip is created to do a single task with significant power savings. ASICs are more efficient as compared to conventional hardware like CPU and GPU. *ASIC* is designed to process `SHA-256`_ hashing_ problems for mining more bitcoins.
 
 **API** |br| 
 Application Programming Interface (API) is referred to be a software intermediary that enables two different applications to interact with each other. These interfaces define ways to do communication between several components.
@@ -49,7 +49,7 @@ Lowercase ‘b’ in bitcoin refers to the token/cryptocurrency bitcoin.
 
 **Block** |br|
 Blocks are packages of data that carry permanently recorded data on the blockchain network. |br|
-*→ See also:* `Orphan Blocks`_
+*→ See also:* `Orphan Blocks`_, `Stale Blocks`_, `Uncle Blocks`_
 
 .. _Blockchain:
 
@@ -198,6 +198,11 @@ is the unit to measure computational effort required to make a transaction on th
 H
 ---
 
+.. _hashing:
+
+**Hashing** |br|
+Hashing is the procedure that a miner on a Proof-of-Work_ blockchain_ constantly repeats in order to find an eligible signature (aka a proof of work). In other words, it is the procedure of repeatedly inserting a random string of digits into a hashing formulae until finding a desirable output.
+
 **HashGraph** |br| 
 World’s first fast, secure and fair distributed ledger, Hedera Hashgraph can perform 500,000 transactions per second. It is a directed acyclic graph that has the properties of the DLT and doesn’t need Proof-Of-Work (POW) like Blockchain based platforms.
 
@@ -247,6 +252,8 @@ M
 **MicroChain Monitor** |br| 
 SCS Monitor is a SCS node monitoring MicroChain status. MicroChain owner can use this SCS node to monitor MicroChain status and get data from MicroChain. Only the owner of MicroChain can add monitors.
 
+.. _mining:
+
 **Mining** |br| 
 Due to the cryptographic nature of cryptocurrencies, an enormous amount of computing power and specialized hardware would be required to verify the transactions. People who solve transactions get some cryptocurrency in exchange for computing power. The whole process is known as mining.
 
@@ -277,7 +284,7 @@ refers to the currency that is minted off-ledger and used on-ledger.
 
 **Orphan Block** |br|
 Orphan blocks often referred to as stale blocks, are blocks that are not accepted into the blockchain network due to a time lag in the acceptance of the block in question into the blockchain, as compared to the other qualifying block. Orphan blocks are valid and verified blocks but have been rejected by the chain. |br|
-→ See also: Block_
+→ See also: Block_, `Stale Blocks`_, `Uncle Blocks`_
 
 **On-Ledger Currency** |br| 
 refers to the currency, which is minted on-ledger and utilized like Bitcoin.
@@ -297,18 +304,30 @@ is responsible for maintaining the integrity and identity of the ledger.
 **PoC** |br| 
 (Proof-of-Concept).
 
-**PoS** |br| 
-(Proof-of-State).
+.. _Proof-of-State:
 
-**PoW** |br| 
-(Proof-of-Work).
+**PoS (Proof-of_State)** |br| 
+An alternative to the proof-of-work_ system, in which your existing stake in a cryptocurrency (the amount of that currency that you hold) is used to calculate the amount of that currency that you can mine.
+
+.. _Proof-of-Work:
+
+**PoW (Proof-of-Work)** |br| 
+A system that ties mining_ capability to computational power. Blocks must be hashed, which is in itself an easy computational process, but an additional variable is added to the hashing process to make it more difficult. When a block is successfully hashed, the hashing must have taken some time and computational effort. Thus, a hashed block is considered proof of work.
 
 .. _Private Blockchain:
 
 **Private Blockchain** |br| 
 only allows authorized entities to send or receive transactions within the network. No one can write/read or audit the records stored on the private blockchain unless someone has permission to do. |br| *→ See also*: Blockchain_
 
-**Private Key**:
+.. _private key:
+
+**Private Key** |br|
+A private key is a string of data that shows you have access to bitcoins in a specific wallet. Private keys can be thought of as a password; private keys must never be revealed to anyone but you, as they allow you to spend the bitcoins from your bitcoin wallet through a cryptographic signature.
+
+.. _protocol
+
+**Protocol** |br|
+A set of rules that dictate how data is exchanged and transmitted. This pertains to cryptocurrency in blockchain when referring to the formal rules that outline how these actions are performed across a specific network.
 
 .. _Public Blockchain:
 
