@@ -53,6 +53,8 @@ C
 
 - **Confirmation**: means the transactions occurred on the blockchain has been verified by the network. It happens through a process called mining in P-O-W system. When a transaction is confirmed, it cannot be double spent or reversed. As much as confirmations the transaction has, the harder it becomes to make a double spend attack.
 
+- **Consensus Algorithm**  is the blockchain element that determines how consensus is reached on that blockchain. In other words; it is the part of the blockchain protocol that describes who gets to validate blocks of data (and thus is entitled to the reward) and how others can verify its legitimacy. All participating entities on the blockchain must adhere and follow the same consensus algorithm to participate on the blockchain.
+
 - **Consensus Process**: is achieved when all the network participants agree on the validity of the transactions and ensure that ledgers are correctly copied with each other.
 
 - **Cryptocurrency**: A digital currency that is based on mathematics, where encryption techniques regulate the units of currency and verify the fund’s transfer. Also, cryptocurrencies are the representations of digital assets. Some of the popular cryptocurrencies are EOS, Bitcoin, NEO, Litecoin and Ethereum. Network stakeholders can buy or mine the cryptocurrency. Also, there are more ways to get hold of them including airdrop, staking or bounties.
