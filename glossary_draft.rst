@@ -342,7 +342,7 @@ Smart Contract Server (SCS) is used to form MicroChains_. It can do MicroChain m
 **SCS pool** |br| 
 A pool of SCSs with the same protocol to form one type of MicroChain. The protocol is defined in the SubChainProtocolBase.sol. The SCSs need to register itself into the pool by calling the deployed SubChainProtocolBase contract with paying some deposit. A MicroChain contract using the same protocol can pick up the SCSs and form the MicroChain. 
 
-.. SHA-256:
+.. _SHA-256:
 
 **SHA-256** |br|
 Cryptographic Hash Algorithm. A cryptographic hash (sometimes called 'digest') is a kind of 'signature' for a text or a data file. SHA-256 generates an almost-unique 256-bit (32-byte) signature for a text.
