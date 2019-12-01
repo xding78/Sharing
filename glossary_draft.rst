@@ -1,10 +1,10 @@
-.. |br| raw:: html
-
-    <br/>
-    
 .. raw:: html
 
     <style> .ref {color:blue} </style>
+
+.. |br| raw:: html
+
+    <br/>
 
 ==========================
 Blockchain general terms
