@@ -13,7 +13,7 @@ A
 - **Airdrop**: means distributing the free tokens to stakeholders as rewards. Airdrop is related to the blockchain projects, especially ICOs. Also, it might or might not include an incentive. Many blockchain projects perform airdrop for various reasons like community growth, fixing the bugs or incentivize a positive effort towards their idea.
 
 - **Accidental Fork**: happens when two or more miners select the block simultaneously. Then, one chain becomes longer than other. Also, the network abandons blocks that are not included in the long chain. These blocks are referred to as “orphaned blocks.”
-See also: Fork
+See also: Fork_
 
 - **Agreement Ledger**: is considered as distributed ledger (DL), where two or more parties use it to negotiate and reach an agreement.
 
@@ -114,6 +114,8 @@ F
 - **Fiat**: A currency that is declared by the government to meet the financial obligation like USD, EUR, CNY, JPY or INR. It means that Fiat is the only currency that can be used to buy, sell or trade goods.
 
 - **flush**: A special operation of MicroChain. Each MicroChain needs to defined the flush period in terms of MotherChain block numbers when it is created. In each flush operation, the status of the MicroChain is written to the MotherChain. In the flush operation, MicroChain will give out the mining rewards to the SCS miners, deposit/withdraw MicroChain tokens, and other transactions that may change the status in the MotherChain. 
+
+.. _Fork:
 
 - **Fork**: builds an alternative blockchain version by allowing two blocks to run simultaneously on different parts of the network. Forks generally happen in the crypto-world when new ‘governance rules’ are built into the blockchain’s code. It creates two parallel blockchains, where one among the two is the winning blockchain.
 See also: Accidental Fork, Hard Fork
