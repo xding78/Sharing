@@ -1,6 +1,6 @@
 .. |br| raw:: html
 
-    <br>
+<br>
 
 ==========================
 Blockchain general terms
