@@ -12,7 +12,8 @@ A
 
 - **Airdrop**: means distributing the free tokens to stakeholders as rewards. Airdrop is related to the blockchain projects, especially ICOs. Also, it might or might not include an incentive. Many blockchain projects perform airdrop for various reasons like community growth, fixing the bugs or incentivize a positive effort towards their idea.
 
-- **Accidental Fork**: happens when two or more miners select the block simultaneously. Then, one chain becomes longer than other. Also, the network abandons blocks that are not included in the long chain. These blocks are referred to as “orphaned blocks.” | See also: Fork_
+- **Accidental Fork**: happens when two or more miners select the block simultaneously. Then, one chain becomes longer than other. Also, the network abandons blocks that are not included in the long chain. These blocks are referred to as “orphaned blocks.” 
+| See also: Fork_
 
 - **Agreement Ledger**: is considered as distributed ledger (DL), where two or more parties use it to negotiate and reach an agreement.
 
