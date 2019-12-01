@@ -64,7 +64,6 @@ Block ciphersA method of encrypting text in which algorithm and cryptographic ke
 
 C
 ---
-|
 
 **Central Ledger**: The ledger, which is maintained by the central agency. Chain linking: It is the process to connect two blockchains so that transactions between the chain could take place. Blockchain like bitcoin can communicate with other side chains by enabling the assets exchange between them.
 |
