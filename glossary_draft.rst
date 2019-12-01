@@ -84,7 +84,7 @@ A blockchain is a distributed ledger that comprises of immutable records. Each b
 .. _blockchain explorer:
 
 **Blockchain Explorer** |br| 
-is a type of tool, which is used to check the past or current transactions on a blockchain. Also, it provides you with more details like transaction growth and network hash rate. By understanding blockchain explorer, you can enhance your knowledge about blockchain definitions.
+Blockchain explorer is a type of tool, which is used to check the past or current transactions_ on a blockchain. Also, it provides you with more details like transaction growth and network hash rate. By understanding blockchain explorer, you can enhance your knowledge about blockchain definitions.
 
 .. _block reward:
 
@@ -555,6 +555,8 @@ is the second block chain used by developers for testing new versions of client 
 .. _token:
 
 **Token** |br|
+
+.. _transactions:
 
 .. _transaction:
 
