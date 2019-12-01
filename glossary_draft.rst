@@ -267,7 +267,7 @@ helps to communicate data with Smart Contracts by connecting the blockchain and 
 **Off-Ledger Currency** |br| 
 refers to the currency that is minted off-ledger and used on-ledger.
 
-.. _orphan block:
+.. _orphan blocks:
 
 **Orphan Block** |br|
 Orphan blocks often referred to as stale blocks, are blocks that are not accepted into the blockchain network due to a time lag in the acceptance of the block in question into the blockchain, as compared to the other qualifying block. Orphan blocks are valid and verified blocks but have been rejected by the chain. |br|
