@@ -216,6 +216,8 @@ P
 
 - **PoW**: (Proof-of-Work).
 
+.. Private Blockchain:
+
 - **Private Blockchain**: only allows authorized entities to send or receive transactions within the network. No one can write/read or audit the records stored on the private blockchain unless someone has permission to do.
 See also: Blockchain
 
