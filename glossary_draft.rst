@@ -419,6 +419,8 @@ P
 
 .. _Peer-to-Peer:
 
+.. _P2P:
+
 **Peer-to-Peer** |br| 
 aka P2P, refers to decentralized interactions held between two parties or more in a highly interconnected network. The participants involved in the peer-to-peer network can deal directly with each other via a single mediation point.
 
@@ -462,7 +464,7 @@ only allows authorized entities to send or receive transactions within the netwo
 **Private Key** |br|
 A private key is a string of data that shows you have access to bitcoins in a specific wallet. Private keys can be thought of as a password; private keys must never be revealed to anyone but you, as they allow you to spend the bitcoins from your bitcoin wallet through a cryptographic signature.
 
-.. _protocol
+.. _protocol:
 
 **Protocol** |br|
 A set of rules that dictate how data is exchanged and transmitted. This pertains to cryptocurrency in blockchain when referring to the formal rules that outline how these actions are performed across a specific network.
@@ -526,7 +528,7 @@ Cryptographic Hash Algorithm. A cryptographic hash (sometimes called 'digest') i
 **Solidity** |br| 
 is a programming language, which is designed to develop smart contracts. Solidity’s syntax is similar to JavaScript and intended to compile into bytecode for (EVM).
 
-.. _stale block:
+.. _stale blocks:
 
 **Stale Block** |br|
 Most miners think Stale blocks and `Orphan blocks`_ are both the same. No, they are not and do not confuse them. Orphan block are blocks on the shorter chain and as its parent is not known it cannot be validated. Stale block is totally valid and it’s a successfully mined block but they are not active and is not included in the current blockchain. |br|
