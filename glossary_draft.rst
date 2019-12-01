@@ -29,10 +29,11 @@ Airdrop means distributing the free tokens to stakeholders as rewards. Airdrop i
 An Accidental Fork happens when two or more miners select the block simultaneously. Then, one chain becomes longer than other. Also, the network abandons blocks that are not included in the long chain. These blocks are referred to as “`orphan blocks`_.” |br| *→ See also:* Fork_
 
 **Agreement Ledger** |br| 
-is considered as `distributed ledger`_ (DL), where two or more parties use it to negotiate and reach an agreement.
+An agreement ledger is considered as a `distributed ledger`_ (DL), where two or more parties use it to negotiate and reach an agreement.
 
-**ASIC** |br| 
-stands for *Application Specific Integrated Circuit*, also referred to Silicon Chip is created to do a single task with significant power savings. ASICs are more efficient as compared to conventional hardware like CPU and GPU. *ASIC* is designed to process `SHA-256`_ hashing_ problems for mining more bitcoins.
+**ASIC** |br|
+ASIC is a type of computer processing chip that performs a singular function. |br|
+Due to its specialization, an *ASIC* is much more efficient and cost-effective than a generalized computer processor that can perform many functions. In the blockchain industry, ASIC boards have been used to perform the SHA-256_ hashing_ required for Proof-of-Work_ (PoW), greatly outstripping the `hash rate`_ of even the most powerful GPU miners.
 
 **API** |br| 
 Application Programming Interface (API) is referred to be a software intermediary that enables two different applications to interact with each other. These interfaces define ways to do communication between several components.
@@ -202,21 +203,25 @@ is the unit to measure computational effort required to make a transaction on th
 H
 ---
 
+.. _hash:
+
+**Hash** |br| 
+An alphanumeric string, Hash Value is a function that takes an input and output. It is used to do the confirmation of coins’ transactions on the blockchain.
+
 .. _hashing:
 
 **Hashing** |br|
 Hashing is the procedure that a miner on a Proof-of-Work_ blockchain_ constantly repeats in order to find an eligible signature (aka a proof of work). In other words, it is the procedure of repeatedly inserting a random string of digits into a hashing formulae until finding a desirable output.
 
-**HashGraph** |br| 
-World’s first fast, secure and fair distributed ledger, Hedera Hashgraph can perform 500,000 transactions per second. It is a directed acyclic graph that has the properties of the DLT and doesn’t need Proof-Of-Work (POW) like Blockchain based platforms.
+.. _hash rate:
+
+**Hash Rate** |br|
+A hash rate in blockchain and cryptocurrency operations is defined as the number of hash operations done in a given amount of time, or the speed of a miner's performance. The hash rate is an important factor in the logistics of cryptocurrency mining and blockchain operations, and something that is often evaluated and discussed in cryptocurrency communities.
 
 .. _Hard Fork:
 
 **Hard Fork** |br| 
 is a type of fork that makes previously invalid transactions valid and needs all users to upgrade their clients. On July 21, 2016, the Hardfork that happened in public blockchains was Ethereum Hardfork. It has changed the Ethereum protocol; thus a second blockchain emerged known as Ethereum Classic (ETC) that supports old protocols of Ethereum. |br| *→ See also*: Fork_
-
-**Hash** |br| 
-An alphanumeric string, Hash Value is a function that takes an input and output. It is used to do the confirmation of coins’ transactions on the blockchain.
 
 **Hot Wallet** |br| 
 A Hot Wallet refers to a cryptocurrency wallet which is connected to the internet.
