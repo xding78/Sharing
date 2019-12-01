@@ -12,7 +12,7 @@ A_, B_, C_, D_, E_, F_, G_, H_, I_, J_, K_, L_, M_, N_, O_, P_, Q_, R_, S_, T_, 
 |
 
 **51% Attack** |br|
-An attack on the distributed ledger that results in miners group has controlled more than 50% of the mining hash rate of the network. The term “Attack,” is used mostly in context to Bitcoin.
+An attack on the distributed ledger that results in miners group has controlled more than 50% of the mining_ `hash rate`_ of the network. The term “Attack,” is used mostly in context to Bitcoin_.
 
 A
 ---
@@ -25,7 +25,7 @@ Addresses are used to receive and send transactions_ on the network. An address 
 .. _airdrop:
 
 **Airdrop** |br|
-Airdrop means distributing the free tokens to stakeholders as rewards. Airdrop is related to the blockchain projects, especially ICOs. Also, it might or might not include an incentive. Many blockchain projects perform airdrop for various reasons like community growth, fixing the bugs or incentivize a positive effort towards their idea.
+Airdrop means distributing the free tokens_ to stakeholders as rewards. Airdrop is related to the blockchain projects, especially ICOs. Also, it might or might not include an incentive. Many blockchain projects perform airdrop for various reasons like community growth, fixing the bugs or incentivize a positive effort towards their idea.
 
 .. _Accidental Fork:
 
@@ -521,12 +521,15 @@ Cryptographic Hash Algorithm. A cryptographic hash (sometimes called 'digest') i
 
 .. _smart contract:
 
-**Smart Contract**:
+.. _smart contracts:
+
+**Smart Contract** |br|
+Smart contracts are contracts whose terms are recorded in a computer language instead of legal language. Smart contracts can be automatically executed by a computing system, such as a suitable `distributed ledger`_ system.
 
 .. _solidity:
 
 **Solidity** |br| 
-is a programming language, which is designed to develop smart contracts. Solidity’s syntax is similar to JavaScript and intended to compile into bytecode for (EVM).
+Solidity is a programming language, which is designed to develop `smart contracts`_. Solidity’s syntax is similar to JavaScript and intended to compile into bytecode for (EVM).
 
 .. _stale blocks:
 
@@ -554,13 +557,23 @@ is the second block chain used by developers for testing new versions of client 
 
 .. _token:
 
+.. _tokens:
+
 **Token** |br|
+A token is a digital identity for something that can be owned.
 
 .. _transactions:
 
 .. _transaction:
 
 **Transaction** |br|
+
+.. _transaction block:
+
+.. _transaction blocks:
+
+**Transaction Block** |br|
+A transaction block is a collection of transactions on the bitcoin network, gathered into a block that can then be hashed and added to the blockchain.
 
 .. _transaction fee:
 
