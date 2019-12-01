@@ -314,6 +314,9 @@ An alternative to the proof-of-work_ system, in which your existing stake in a c
 **PoW (Proof-of-Work)** |br| 
 A system that ties mining_ capability to computational power. Blocks must be hashed, which is in itself an easy computational process, but an additional variable is added to the hashing process to make it more difficult. When a block is successfully hashed, the hashing must have taken some time and computational effort. Thus, a hashed block is considered proof of work.
 
+**PoS/Pow Hybrid** |br|
+PoS/PoW Hybrid is a combination of Proof-of-Stake (PoS) and Proof-of-Work (PoW) consensus protocols on a blockchain network. Blocks are validated from not only miners, but also voters (stakeholders) to form a balanced network governance.
+
 .. _Private Blockchain:
 
 **Private Blockchain** |br| 
