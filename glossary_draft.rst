@@ -7,7 +7,8 @@
 Blockchain general terms
 ==========================
 
-**51% Attack** |br| An attack on the distributed ledger that results in miners group has controlled more than 50% of the mining hash rate of the network. The term “Attack,” is used mostly in context to Bitcoin.
+**51% Attack**
+An attack on the distributed ledger that results in miners group has controlled more than 50% of the mining hash rate of the network. The term “Attack,” is used mostly in context to Bitcoin.
 
 A
 ---
