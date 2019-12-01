@@ -354,6 +354,12 @@ Cryptographic Hash Algorithm. A cryptographic hash (sometimes called 'digest') i
 **Solidity** |br| 
 is a programming language, which is designed to develop smart contracts. Solidity’s syntax is similar to JavaScript and intended to compile into bytecode for (EVM).
 
+.. _stale block:
+
+**Stale Block** |br|
+Most miners think Stale blocks and `Orphan blocks`_ are both the same. No, they are not and do not confuse them. Orphan block are blocks on the shorter chain and as its parent is not known it cannot be validated. Stale block is totally valid and it’s a successfully mined block but they are not active and is not included in the current blockchain. |br|
+*→ See also*: Block_, `Orphan Blocks`_, `Uncle Blocks`_
+
 **SubChainProtocolBase** |br| 
 A MotherChain contract defines the protocol for the SCSs to register and form a SCS pool.
 
@@ -375,6 +381,12 @@ All cryptocurrency transactions include a small amount of transaction fee.
 
 U
 ---
+
+.. _uncle blocks:
+
+**Uncle block** |br|
+Uncle blocks are similar to `orphan blocks`_ in Bitcoin but there are some differences. To understand the concept of uncle block consider blockchain as family tree. You, your Dad and his Dad are like “correct” blocks that forms the blockchain. Uncles are closely related to the family and they have their weightage as they are the “correct” next block in the blockchain. However they are  not included in the longest chain. |br|
+*→ See also*: Block_, `Orphan Blocks`_, `Stale Blocks`_
 
 **Unpermissioned Ledgers** |br| 
 means that no one can own these ledgers like Bitcoin have no sole owner. It allows anyone to add data to the ledger and for everyone in ownership of the ledger to have identical copies.
