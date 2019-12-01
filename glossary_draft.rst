@@ -2,6 +2,12 @@
 
     <br/>
 
+.. raw:: html
+
+    <style> .blue {font-style:italic; font-size: 80%;} </style>
+
+.. role:: blue
+
 ==========================
 Blockchain general terms
 ==========================
@@ -13,41 +19,56 @@ A
 ---
 
 - **Address**: Refers to a string of alphanumeric characters or scannable QR code, which is used to transmit and receive transactions on the network. The address is an essential term in the cryptocurrency, generated using the private key.
+|
 
 - **Airdrop**: means distributing the free tokens to stakeholders as rewards. Airdrop is related to the blockchain projects, especially ICOs. Also, it might or might not include an incentive. Many blockchain projects perform airdrop for various reasons like community growth, fixing the bugs or incentivize a positive effort towards their idea.
+|
 
-- **Accidental Fork**: happens when two or more miners select the block simultaneously. Then, one chain becomes longer than other. Also, the network abandons blocks that are not included in the long chain. These blocks are referred to as “orphaned blocks.” |br| *→ See also:* Fork_
+- **Accidental Fork**: happens when two or more miners select the block simultaneously. Then, one chain becomes longer than other. Also, the network abandons blocks that are not included in the long chain. These blocks are referred to as “orphaned blocks.” |br| :blue:`→ See also:` Fork_
+|
 
 - **Agreement Ledger**: is considered as distributed ledger (DL), where two or more parties use it to negotiate and reach an agreement.
+|
 
 - **ASIC**: stands for Application Specific Integrated Circuit, also referred to Silicon Chip is created to do a single task with significant power savings. ASICs are more efficient as compared to conventional hardware like CPU and GPU. ASIC is designed to process SHA-256 hashing problems for mining more bitcoins.
+|
 
-- **API**: Application Programming Interface (API) is referred to be a software intermediary that enables two different applications to interact with each other. These interfaces define ways to do communication between several components. 
+- **API**: Application Programming Interface (API) is referred to be a software intermediary that enables two different applications to interact with each other. These interfaces define ways to do communication between several components.
+|
 
 - **Attestation Ledger** is an account book, created to provide evidence of individual transactions. The ledger is to used to check that agreement, statement or commitment of transaction was made.
+|
 
 B
 ---
 
 - **Bitcoin**: Capital ‘B’ in Bitcoin: refers to the Bitcoin network.
+|
 
 - **bitcoin**: Lowercase ‘b’ in bitcoin: refers to the token/cryptocurrency bitcoin.
+|
 
 - **Blockchain**: a distributed ledger that comprises of immutable records. Each block is then linked to the next block with a cryptographic signature. It enables block chains to be used like a ledger that can be shared and accessed by anyone having the right permissions. The blockchain is the transparent ledger that is used to save identities, value, agreements, credentials and property rights. Once you add something to the ledger, it will stay there forever. |br| *→ See also*: `Consortium Blockchain`_, `Private Blockchain`_, `Public Blockchain`_
+|
 
 - **Blockchain Explorer**: is a type of tool, which is used to check the past or current transactions on a blockchain. Also, it provides you with more details like transaction growth and network hash rate. By understanding blockchain explorer, you can enhance your knowledge about blockchain definitions.
+|
 
 - **Block Reward**: When miner solves the block successfully, they receive the reward as a block reward. Miner needs to add the first transaction on the block to claim the reward. The reward can also be shared with a group of miners based on the amount of work they have done.
+|
 
 - **Block Height**: represents the number of blocks linked together in the blockchain. For example, the height 0 is the first block that is also known as Genesis Block.
 Block ciphersA method of encrypting text in which algorithm and cryptographic key are applied to a data block at once as a group inspite of one bit at a time.
+|
 
 - **Bounty**: Business or startups run a bounty program to incentivize positive behavior like bug fixes, article writing and marketing. These are quite popular in the tech industry.
+|
 
 C
 ---
 
 - **Central Ledger**: The ledger, which is maintained by the central agency. Chain linking: It is the process to connect two blockchains so that transactions between the chain could take place. Blockchain like bitcoin can communicate with other side chains by enabling the assets exchange between them.
+|
 
 - **Confirmation**: means the transactions occurred on the blockchain has been verified by the network. It happens through a process called mining in P-O-W system. When a transaction is confirmed, it cannot be double spent or reversed. As much as confirmations the transaction has, the harder it becomes to make a double spend attack.
 
