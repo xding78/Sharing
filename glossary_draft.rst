@@ -7,15 +7,18 @@
 Blockchain general terms
 ==========================
 
-
-- **51% Attack** |br| An attack on the distributed ledger that results in miners group has controlled more than 50% of the mining hash rate of the network. The term “Attack,” is used mostly in context to Bitcoin.
+**51% Attack** |br| An attack on the distributed ledger that results in miners group has controlled more than 50% of the mining hash rate of the network. The term “Attack,” is used mostly in context to Bitcoin.
+|
 
 A
 ---
 
-- **Address**: Refers to a string of alphanumeric characters or scannable QR code, which is used to transmit and receive transactions on the network. The address is an essential term in the cryptocurrency, generated using the private key.
+**Address** |br|
+Address refers to a string of alphanumeric characters or scannable QR code, which is used to transmit and receive transactions on the network. The address is an essential term in the cryptocurrency, generated using the private key.
+|
 
-- **Airdrop**: means distributing the free tokens to stakeholders as rewards. Airdrop is related to the blockchain projects, especially ICOs. Also, it might or might not include an incentive. Many blockchain projects perform airdrop for various reasons like community growth, fixing the bugs or incentivize a positive effort towards their idea.
+**Airdrop** |br|
+Airdrop means distributing the free tokens to stakeholders as rewards. Airdrop is related to the blockchain projects, especially ICOs. Also, it might or might not include an incentive. Many blockchain projects perform airdrop for various reasons like community growth, fixing the bugs or incentivize a positive effort towards their idea.
 
 .. _Accidental Fork:
 
