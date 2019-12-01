@@ -27,18 +27,20 @@ A
 - **ASIC**: stands for Application Specific Integrated Circuit, also referred to Silicon Chip is created to do a single task with significant power savings. ASICs are more efficient as compared to conventional hardware like CPU and GPU. ASIC is designed to process SHA-256 hashing problems for mining more bitcoins.
 |
 
-- **API**: Application Programming Interface (API) is referred to be a software intermediary that enables two different applications to interact with each other. These interfaces define ways to do communication between several components.
-Attestation Ledger is an account book, created to provide evidence of individual transactions. The ledger is to used to check that agreement, statement or commitment of transaction was made.
+- **API**: Application Programming Interface (API) is referred to be a software intermediary that enables two different applications to interact with each other. These interfaces define ways to do communication between several components. Attestation Ledger is an account book, created to provide evidence of individual transactions. The ledger is to used to check that agreement, statement or commitment of transaction was made.
 |
 
 B
 ---
 
-- **Bitcoin**: Capital ‘B’ in Bitcoin: refers to the Bitcoin network
+- **Bitcoin**: Capital ‘B’ in Bitcoin: refers to the Bitcoin network.
+|
 
-- **bitcoin**: Lowercase ‘b’ in bitcoin: refers to the token/cryptocurrency bitcoin
+- **bitcoin**: Lowercase ‘b’ in bitcoin: refers to the token/cryptocurrency bitcoin.
+|
 
-- **Blockchain**: a distributed ledger that comprises of immutable records. Each block is then linked to the next block with a cryptographic signature. It enables block chains to be used like a ledger that can be shared and accessed by anyone having the right permissions. The blockchain is the transparent ledger that is used to save identities, value, agreements, credentials and property rights. Once you add something to the ledger, it will stay there forever. |br| *→ See also*: `Consortium Blockchain`_, `Private Blockchain`_, `Public Blockchain`_ |br|
+- **Blockchain**: a distributed ledger that comprises of immutable records. Each block is then linked to the next block with a cryptographic signature. It enables block chains to be used like a ledger that can be shared and accessed by anyone having the right permissions. The blockchain is the transparent ledger that is used to save identities, value, agreements, credentials and property rights. Once you add something to the ledger, it will stay there forever. |br| *→ See also*: `Consortium Blockchain`_, `Private Blockchain`_, `Public Blockchain`_
+|
 
 - **Blockchain Explorer**: is a type of tool, which is used to check the past or current transactions on a blockchain. Also, it provides you with more details like transaction growth and network hash rate. By understanding blockchain explorer, you can enhance your knowledge about blockchain definitions.
 
