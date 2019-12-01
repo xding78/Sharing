@@ -2,11 +2,6 @@
 
     <br/>
 
-.. raw:: html
-
-    <style> .blue {font-style:italic; font-size: 80%;} </style>
-
-.. role:: blue
 
 ==========================
 Blockchain general terms
@@ -24,7 +19,7 @@ A
 - **Airdrop**: means distributing the free tokens to stakeholders as rewards. Airdrop is related to the blockchain projects, especially ICOs. Also, it might or might not include an incentive. Many blockchain projects perform airdrop for various reasons like community growth, fixing the bugs or incentivize a positive effort towards their idea.
 |
 
-- **Accidental Fork**: happens when two or more miners select the block simultaneously. Then, one chain becomes longer than other. Also, the network abandons blocks that are not included in the long chain. These blocks are referred to as “orphaned blocks.” |br| :blue:`→ See also:` Fork_
+- **Accidental Fork**: happens when two or more miners select the block simultaneously. Then, one chain becomes longer than other. Also, the network abandons blocks that are not included in the long chain. These blocks are referred to as “orphaned blocks.” |br| *→ See also:* Fork_
 |
 
 - **Agreement Ledger**: is considered as distributed ledger (DL), where two or more parties use it to negotiate and reach an agreement.
@@ -47,6 +42,8 @@ B
 
 - **bitcoin**: Lowercase ‘b’ in bitcoin: refers to the token/cryptocurrency bitcoin.
 |
+
+.. _Blockchain:
 
 - **Blockchain**: a distributed ledger that comprises of immutable records. Each block is then linked to the next block with a cryptographic signature. It enables block chains to be used like a ledger that can be shared and accessed by anyone having the right permissions. The blockchain is the transparent ledger that is used to save identities, value, agreements, credentials and property rights. Once you add something to the ledger, it will stay there forever. |br| *→ See also*: `Consortium Blockchain`_, `Private Blockchain`_, `Public Blockchain`_
 |
@@ -80,7 +77,7 @@ C
 
 .. _Consortium Blockchain:
 
-- **Consortium Blockchain**: is a blockchain, where a pre-selected set of nodes handles consensus process. It is also called permissioned blockchain network that can be a hybrid model built between trusted entity model of private blockchains and low trust provided by the public blockchain. In this, the access to read the transactions can be public or restricted to the participants. Moreover, these types of blockchains may be referred to as “partially decentralized.”
+- **Consortium Blockchain**: is a blockchain, where a pre-selected set of nodes handles consensus process. It is also called permissioned blockchain network that can be a hybrid model built between trusted entity model of private blockchains and low trust provided by the public blockchain. In this, the access to read the transactions can be public or restricted to the participants. Moreover, these types of blockchains may be referred to as “partially decentralized.” |br| *→ See also*: Blockchain_
 
 - **Cryptoanalysis**: The thesis of methods for understanding the meaning of the encrypted details, without accessing the secret details.
 
