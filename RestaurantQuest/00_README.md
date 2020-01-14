@@ -19,4 +19,4 @@ There are two parts of the this project:
 
 Because github does not support folium map natively.
 In order to best experience interactive maps, use [Jupyter nbviewer](https://nbviewer.jupyter.org) to view ipynb files.
-For example, the full story using TomTom API is like [this](https://nbviewer.jupyter.org/github/xding78/Sharing/blob/master/RestaurantQuest_TomTomAPI_Full.ipynb).
+For example, the full story using TomTom API is like [this](https://nbviewer.jupyter.org/github/xding78/Sharing/blob/master/RestaurantQuest/RestaurantQuest_TomTomAPI_Full.ipynb).
