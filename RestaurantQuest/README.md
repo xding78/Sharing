@@ -2,11 +2,11 @@
 
 This folder contains all the materials for this project: Where to open a Chinese Restaurant in Amsterdam?
 External libraries and APIs are used:
-* Numpy
-* pandas
-* matplotlib
-* folium map
-* TomTom API or Foursquare API (in separate files)
+* [NumPy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
+* [folium map](https://python-visualization.github.io/folium/)
+* [TomTom API](https://developer.tomtom.com/products/maps-api) or [Foursquare Places API](https://developer.foursquare.com/docs) (in separate files)
 
 
 ## Background
